@@ -15,3 +15,4 @@ console.log(positionOfString)
 let beginingCheck = lyrics.toLowerCase().startsWith("sada")
 
 console.log(beginingCheck)
+// Endswith normally used for checking file 
